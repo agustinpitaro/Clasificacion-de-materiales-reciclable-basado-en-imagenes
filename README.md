@@ -1,4 +1,5 @@
-# tesis reborn
+# Implementación de CNN para clasificación y/o identificación de materias primas
+
  Dataset
 
 This repository contains the dataset that we collected. The dataset spans six classes: glass, paper, cardboard, plastic, metal, and trash. Currently, the dataset consists of 2527 images:
