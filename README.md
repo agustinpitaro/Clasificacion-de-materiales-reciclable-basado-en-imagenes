@@ -17,3 +17,7 @@ FMD:
    - 100 metal
    
 https://people.csail.mit.edu/celiu/CVPR2010/FMD/FMD.zip
+
+
+Se filtraron 197 cardboard de:
+https://medium.com/@ringlayer/cardboard-box-detection-using-retinanet-keras-5d4f331d9d15
