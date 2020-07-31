@@ -9,7 +9,6 @@ This repository contains the dataset that we collected. The dataset spans six cl
     403 cardboard
     482 plastic
     410 metal
-    137 trash
 
 The pictures were taken by placing the object on a white posterboard and using sunlight and/or room lighting. The pictures have been resized down to 512 x 384, which can be changed in data/constants.py (resizing them involves going through step 1 in usage). The devices used were Apple iPhone 7 Plus, Apple iPhone 5S, and Apple iPhone SE.
 
