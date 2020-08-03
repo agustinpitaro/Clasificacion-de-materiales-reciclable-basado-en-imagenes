@@ -1,7 +1,7 @@
 # Implementación de CNN para clasificación y/o identificación de materias primas
 
 # Dataset
-Trashnet:
+### Trashnet:
     - 501 glass
     - 594 paper
     - 403 cardboard
@@ -10,7 +10,7 @@ Trashnet:
 
 The dataset can be downloaded https://github.com/garythung/trashnet.
 
-FMD:
+### FMD:
    - 100 glass
    - 100 paper
    - 100 plastic
@@ -19,5 +19,5 @@ FMD:
 https://people.csail.mit.edu/celiu/CVPR2010/FMD/FMD.zip
 
 
-Se filtraron 197 cardboard de:
+### Se filtraron 197 cardboard de:
 https://medium.com/@ringlayer/cardboard-box-detection-using-retinanet-keras-5d4f331d9d15
